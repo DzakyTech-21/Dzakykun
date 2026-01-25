@@ -23,7 +23,8 @@ const images = [
     'https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=500',
     'https://images.unsplash.com/photo-1518709268805-4e9042af2176?w-500',
     'https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=500',
-    'https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=500'
+    'https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=500',
+    'https://satujabar.com/wp-content/uploads/2024/08/Bahlil-Lahadalia.jpg'
 ];
 
 // Counter klik
