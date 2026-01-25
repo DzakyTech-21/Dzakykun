@@ -11,18 +11,18 @@ const myImage = document.getElementById('myImage');
 // Array warna random
 const colors = ['#ff6b6b', '#4ecdc4', '#45b7d1', '#96ceb4', '#feca57', '#ff9ff3'];
 const messages = [
-    "Selamat! Anda mengklik tombol! 🎉",
-    "Website ini interaktif! ✨",
-    "Coba klik tombol lain! 🚀",
-    "Hebat! Terus eksplorasi! 💪",
-    "Coding itu menyenangkan! 😄"
+    "Hidup Jokowi ",
+    "Hidup Blonde ✨",
+    "Yo Ndak Tau Kok Tanya Saya 🚀",
+    "SAWEEEEETTT 💪",
+    "Oke gas😄"
 ];
 
 // Array gambar (dari Unsplash)
 const images = [
-    'https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=500',
-    'https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=500',
-    'https://images.unsplash.com/photo-1535223289827-42f1e9919769?w=500',
+    'https://id.pinterest.com/pin/491385009365657419/',
+    'https://www.instagram.com/p/DNWozOPy3nS/',
+    'https://id.pinterest.com/pin/236931630391078875/',
     'https://satujabar.com/wp-content/uploads/2024/08/Bahlil-Lahadalia.jpg'
 ];
 
