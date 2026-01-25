@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.container {
+    background: white;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.2);
+    max-width: 800px;
+    width: 100%;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 30px;
+    font-size: 2.5rem;
+}
+
+/* Tombol Styling */
+.btn {
+    background: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+    border: none;
+    color: white;
+    padding: 15px 25px;
+    margin: 10px;
+    border-radius: 50px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.btn:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.btn:active {
+    transform: translateY(0);
+}
+
+.btn i {
+    font-size: 1.2rem;
+}
+
+/* Message Box */
+#message {
+    background: #f8f9fa;
+    padding: 20px;
+    margin: 30px 0;
+    border-radius: 10px;
+    border-left: 5px solid #4facfe;
+    font-size: 1.2rem;
+    min-height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.5s ease;
+}
+
+/* Moving Box */
+.box {
+    width: 100px;
+    height: 100px;
+    background: linear-gradient(45deg, #ff6b6b, #ffa726);
+    margin: 30px auto;
+    border-radius: 15px;
+    transition: all 0.5s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+}
+
+/* Counter */
+.counter {
+    margin: 20px 0;
+    font-size: 1.3rem;
+    color: #333;
+}
+
+.counter span:last-child {
+    font-weight: bold;
+    color: #ff6b6b;
+    font-size: 2rem;
+}
+
+/* Image Container */
+.image-container {
+    margin-top: 40px;
+}
+
+.responsive-img {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    transition: all 0.5s ease;
+}
