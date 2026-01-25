@@ -20,9 +20,9 @@ const messages = [
 
 // Array gambar (dari Unsplash)
 const images = [
-    'https://id.pinterest.com/pin/491385009365657419/',
-    'https://www.instagram.com/p/DNWozOPy3nS/',
-    'https://id.pinterest.com/pin/236931630391078875/',
+    'https://akcdn.detik.net.id/community/media/visual/2023/04/16/wali-kota-solo-gibran-rakabuming-raka-di-benteng-vastenburg-minggu-1642023_169.jpeg?w=700&q=90',
+    'https://rmol.id/images/berita/normal/2022/04/187399_10172627042022_prabowo_sstt.jpg',
+    'https://upload.wikimedia.org/wikipedia/commons/1/11/Purbaya_Yudhi_Sadewa%2C_Ketua_Dewan_Komisioner_Lembaga_Penjamin_Simpanan_%282023%29_%28cropped%29.jpg',
     'https://satujabar.com/wp-content/uploads/2024/08/Bahlil-Lahadalia.jpg'
 ];
 
